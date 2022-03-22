@@ -7,11 +7,13 @@ springboot + jpa + h2 + thymeleaf 로 만든 간단한 토이프로젝트 입니
 
 
 **객체 테이블 매핑**
+
 <img width="193" alt="image" src="https://user-images.githubusercontent.com/93498749/159592187-ae48cf0c-2c36-4175-9e7c-019a238251df.png">
 <img width="226" alt="image" src="https://user-images.githubusercontent.com/93498749/159592194-21bc9410-12ca-412b-b38e-9579f79b280e.png">
 
 **사용기술**
-:springBoot, JPA, Thymleaf, H2DB
+
+
 
 <img width="194" alt="image" src="https://user-images.githubusercontent.com/93498749/159592245-8c7e4339-2696-4a6e-bacd-54e2fe3308c0.png">
 
