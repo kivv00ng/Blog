@@ -1,13 +1,9 @@
 # springBootBlog
 springboot + jpa + h2 + thymeleaf 로 만든 간단한 토이프로젝트 입니다.
 
-<img width="206" alt="image" src="https://user-images.githubusercontent.com/93498749/159592272-0cd08ec1-2bd3-406c-a044-d1a26a6368d0.png">
-<img width="207" alt="image" src="https://user-images.githubusercontent.com/93498749/159592276-d746985a-a435-41c9-9941-0bd17c8a8e63.png">
-<img width="198" alt="image" src="https://user-images.githubusercontent.com/93498749/159592287-c74a2831-b348-4677-9236-e57202fa0b52.png">
-<img width="230" alt="image" src="https://user-images.githubusercontent.com/93498749/159592293-922f57bc-2ccd-444c-a175-1dbc4d13491c.png">
-<img width="186" alt="image" src="https://user-images.githubusercontent.com/93498749/159592315-805423d9-553b-44d2-9db6-af058bb6ea89.png">
-
-<img width="199" alt="image" src="https://user-images.githubusercontent.com/93498749/159592308-8dd10d08-fa9c-4aa9-abbe-217ed31ab9a1.png">
+<img width="853" alt="image" src="https://user-images.githubusercontent.com/93498749/159592459-cbc5c2bc-8216-4961-9a8a-582e7767ad8a.png">
+<img width="883" alt="image" src="https://user-images.githubusercontent.com/93498749/159592478-0747680b-9e3f-44c6-a84e-7745d4e94b07.png">
+<img width="774" alt="image" src="https://user-images.githubusercontent.com/93498749/159592503-8ff54d00-37f6-427a-a2f2-9bf27e52c0a4.png">
 
 
 **객체 테이블 매핑**
