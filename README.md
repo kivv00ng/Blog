@@ -12,5 +12,6 @@ springboot + jpa + h2 + thymeleaf 로 만든 간단한 토이프로젝트 입니
 
 **사용기술**
 :springBoot, JPA, Thymleaf, H2DB
+
 <img width="194" alt="image" src="https://user-images.githubusercontent.com/93498749/159592245-8c7e4339-2696-4a6e-bacd-54e2fe3308c0.png">
 
