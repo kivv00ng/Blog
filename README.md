@@ -1,4 +1,4 @@
-# springBootBlog
+# Blog
 springboot + jpa + h2 + thymeleaf 로 만든 간단한 토이프로젝트 입니다.
 쿠키&세션을 이용한 로그인 기능과 게시글과 댓글,멤버 정보등의 간단한 RestApi를 구현하였습니다. 
 또 로그인 유저만 글과 댓글 작성이 허용되도록 springBoot의 interceptor를 활용하여 접근제한 기능도 추가하였습니다.
